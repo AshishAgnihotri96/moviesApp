@@ -1,12 +1,29 @@
 # Entertainment Hub
-<table>
-<tr>
-<td>
-  Movie App built in React JS and Material UI.
-</td>
-</tr>
-</table>
+# Movie Search and Watch App
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+A web application for searching and streaming movies online.
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+
+## Overview
+
+The Movie Search and Watch App is a web application that allows users to search for movies, view details, and stream them online. With a vast database of movies, users can discover new releases, browse by genre, and enjoy their favorite films from the comfort of their home.
+
+## Features
+
+- Search for movies by title, genre, or release year.
+- View detailed information about each movie, including plot summary, cast, and ratings.
+- Stream movies online with high-quality video playback.
+- Bookmark favorite movies for easy access later.
+- Responsive design for seamless user experience across devices.
+
+## Demo
+
+Check out the live demo [here](https://your-username.github.io/movie-app).
+
+## Getting Started
+
+To run the Movie Search and Watch App locally on your machine:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/movie-app.git
+
