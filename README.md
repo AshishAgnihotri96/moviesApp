@@ -1,4 +1,4 @@
-# Entertainment Hub
+
 # Movie Search and Watch App
 
 A web application for searching and streaming movies online.
