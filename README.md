@@ -2,7 +2,9 @@
 # Movie Search and Watch App
 
 A web application for searching and streaming movies online.
+## Demo
 
+Check out the live demo [here](entertainmenthub.netlify.app/).
 
 ## Overview
 
@@ -16,14 +18,6 @@ The Movie Search and Watch App is a web application that allows users to search 
 - Bookmark favorite movies for easy access later.
 - Responsive design for seamless user experience across devices.
 
-## Demo
 
-Check out the live demo [here](https://your-username.github.io/movie-app).
 
-## Getting Started
-
-To run the Movie Search and Watch App locally on your machine:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-app.git
 
